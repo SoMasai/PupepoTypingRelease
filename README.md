@@ -1,0 +1,2 @@
+# PupepoTypingRelease
+プペポタイピングのダウンロードができます
